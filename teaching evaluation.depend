@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1499360189 source:c:\users\liqinghua\desktop\教学评价\teaching evaluation\main.c
+	<stdio.h>
+	<stdlib.h>
+	"head.h"
+
+1499400286 c:\users\liqinghua\desktop\教学评价\teaching evaluation\head.h
+
+1499433817 source:c:\users\liqinghua\desktop\教学评价 - 副本\teaching evaluation\main.c
+	<stdio.h>
+	<stdlib.h>
+	"head.h"
+
+1499433981 c:\users\liqinghua\desktop\教学评价 - 副本\teaching evaluation\head.h
+
